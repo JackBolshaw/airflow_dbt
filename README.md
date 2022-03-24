@@ -1,1 +1,10 @@
-# airflow_dbt
+# Practice project using Airflow and DBT
+
+## Outline
+
+## Running
+
+## Testing
+
+## Interacting
+
